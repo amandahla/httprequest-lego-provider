@@ -11,4 +11,3 @@ $TTL 3600
 
         IN  A   185.199.108.153           ; Your web server's IP address (replace with actual IP)
 www     IN  A   185.199.108.153           ; www subdomain points to the same IP
-_acme-challenge.www 600 IN TXT "_7bZywrsa4VRtyCVQU2eFDHtWoFbYtlCQVmzqQZ9fEw"
